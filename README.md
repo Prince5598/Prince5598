@@ -62,14 +62,14 @@
 
 ---
 
-### 🧠 Coding Profiles
+### 🧠 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prince-patel-3a5b40292/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="princepatel5598@gmail.com">
+  <a href="mailto:princepatel5598@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
