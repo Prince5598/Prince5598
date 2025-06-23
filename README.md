@@ -45,36 +45,43 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 Top Projects
 
-| 💼 Project | 💬 Description | 🛠 Tech |
-|-----------|----------------|--------|
-| **Droply** | File & folder storage with sharing, previews & auth | `Next.js`, `Drizzle`, `Clerk`, `Neon`, `ImageKit` |
-| **TeamSpace** | Task manager with chat, bug tracking & productivity insights | `Redis`, `Socket.IO`, `Next.js`, `PostgreSQL` |
-| **TaskRadar** | Real-time productivity tracker with visual reports | `tRPC`, `Chart.js`, `Drizzle`, `Next.js`, `Vercel` |
+🔬 **InsightScribe – Research Paper Intelligence**  
+> A web-based platform that processes research PDFs into summarized text, podcasts, and presentation slides.  
+> *Stack: React, Flask, PyMuPDF, Gemini 1.5 Flash, LLaMA 3.3*
+
+🛡 **FraudGuard – Financial Fraud Detection System**  
+> End-to-end system to predict fraudulent transactions using ML, with dashboards for users and admins.  
+> *Stack: React, Node.js, Express.js, MongoDB, Flask, JWT, XGBoost, Random Forest*
+
+☁️ **Cloud-Storage – File Management Platform**  
+> Full-stack file storage app with folder organization, trash restore, previews, and download support.  
+> *Stack: Next.js, Clerk, Neon DB, Drizzle ORM, ImageKit*
+
 
 ---
 
 ### 🧠 Coding Profiles
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prince5598/">
+  <a href="https://www.linkedin.com/in/prince-patel-3a5b40292/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:princepatel5598@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.codechef.com/users/your-username">
+  <a href="https://www.codechef.com/users/prince5598">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://codeforces.com/profile/your-username">
+  <a href="https://codeforces.com/profile/PrincePatel4806">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/your-username">
+  <a href="https://leetcode.com/u/princepatel5598">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
