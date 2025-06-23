@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Prince Patel 👋</h1>
 
-<!--
-**Prince5598/Prince5598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I enjoy creating clean and purposeful experiences through code.<br/>
+  I learn by building — exploring ideas, refining logic, and turning curiosity into progress.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I'm Up To
+
+- Working with backend technologies like **Node.js**, **Express**, and **Next.js (API routes)**
+- Managing data with **MongoDB**, **PostgreSQL**, and **Drizzle ORM**
+- Building and refining REST APIs for real-world applications
+- Practicing problem-solving through DSA and competitive programming
+- Continuously improving how I structure, write, and maintain backend logic
+
+
+---
+
+### 🛠️ Skills
+
+#### 🚀 Frameworks & Libraries  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### 💻 Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🗃️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🧰 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=data&logoColor=white)
+![ImageKit](https://img.shields.io/badge/ImageKit-27B7E6?style=for-the-badge&logo=imagekit&logoColor=white)
+
+
+---
+
+### 🚀 Projects
+
+| 💼 Project | 💬 Description | 🛠 Tech |
+|-----------|----------------|--------|
+| **Droply** | File & folder storage with sharing, previews & auth | `Next.js`, `Drizzle`, `Clerk`, `Neon`, `ImageKit` |
+| **TeamSpace** | Task manager with chat, bug tracking & productivity insights | `Redis`, `Socket.IO`, `Next.js`, `PostgreSQL` |
+| **TaskRadar** | Real-time productivity tracker with visual reports | `tRPC`, `Chart.js`, `Drizzle`, `Next.js`, `Vercel` |
+
+---
+
+### 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prince5598/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/your-username">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/your-username">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/your-username">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince5598&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince5598&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+<p align="center"><strong>“Code that scales. Ideas that solve.”</strong></p>
