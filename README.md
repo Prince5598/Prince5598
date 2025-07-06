@@ -2,18 +2,18 @@
 
 <p align="center">
   I enjoy creating clean and purposeful experiences through code.<br/>
-  I learn by building — exploring ideas, refining logic, and turning curiosity into progress.
+  I learn by building — exploring ideas, refining logic and turning curiosity into progress.
 </p>
 
 ---
 
 ### 💡 What I'm Up To
 
-- Working with backend technologies like **Node.js**, **Express**, and **Next.js (API routes)**
-- Managing data with **MongoDB**, **PostgreSQL**, and **Drizzle ORM**
+- Working with backend technologies like **Node.js**, **Express** and **Next.js (API routes)**
+- Managing data with **MongoDB**, **PostgreSQL** and **Drizzle ORM**
 - Building and refining REST APIs for real-world applications
 - Practicing problem-solving through DSA and competitive programming
-- Continuously improving how I structure, write, and maintain backend logic
+- Continuously improving how I structure, write and maintain backend logic
 
 
 ---
@@ -48,7 +48,7 @@
 ## 🚀 Top Projects
 
 🔬 **InsightScribe – Research Paper Intelligence**  
-> A web-based platform that processes research PDFs into summarized text, podcasts, and presentation slides.  
+> A web-based platform that processes research PDFs into summarized text, podcasts and presentation slides.  
 > *Stack: React, Flask, PyMuPDF, Gemini 1.5 Flash, LLaMA 3.3*
 
 🛡 **FraudGuard – Financial Fraud Detection System**  
@@ -56,7 +56,7 @@
 > *Stack: React, Node.js, Express.js, MongoDB, Flask, JWT, XGBoost, Random Forest*
 
 ☁️ **Cloud-Storage – File Management Platform**  
-> Full-stack file storage app with folder organization, trash restore, previews, and download support.  
+> Full-stack file storage app with folder organization, trash restore, previews and download support.  
 > *Stack: Next.js, Clerk, Neon DB, Drizzle ORM, ImageKit*
 
 
